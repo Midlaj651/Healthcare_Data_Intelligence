@@ -2,7 +2,8 @@
 # 🏥 Healthcare Data Intelligence Dashboard | Power BI
 
 ## 📌 Project Overview
-<img width="960" height="564" alt="Screenshot 2026-10-10 100556" src="https://github.com/user-attachments/assets/6bb1c535-5ba2-4692-b913-bb9c980601b5" />
+<img width="712" height="398" alt="Screenshot 2026-10-10 101146_)" src="https://github.com/user-attachments/assets/ba7efa46-b9fd-4acf-815f-6195f9b1e28e" />
+
 
 
 The Healthcare Data Intelligence Dashboard is an interactive Power BI project designed to analyze healthcare data and provide insights into patient demographics, hospital billing, insurance providers, medical conditions, medications, admission types, and test results.
@@ -69,6 +70,3 @@ The dashboard includes the following visualizations:
 
 ## 🚀 Project Purpose
 This project demonstrates practical Power BI skills and the ability to transform healthcare data into an interactive dashboard for reporting and analysis.
-
-
-Aspiring Data Analyst | Power BI | Excel | SQL | Python | Tableau
